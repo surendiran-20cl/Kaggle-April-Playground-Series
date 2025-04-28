@@ -3,6 +3,8 @@
 
 # Podcast Listening Time Prediction - Kaggle Playground Series (April 2025)
 
+https://www.kaggle.com/competitions/playground-series-s5e4/overview
+
 ##  Introduction
 This project focuses on predicting the listening time (in minutes) for podcast episodes as part of the Kaggle Tabular Playground Series - April 2025. The goal is to build a robust machine learning model that minimizes Root Mean Squared Error (RMSE) on the test data.
 
