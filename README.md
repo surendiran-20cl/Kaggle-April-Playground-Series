@@ -12,6 +12,8 @@ This project focuses on predicting the listening time (in minutes) for podcast e
 - **train.csv**: Training dataset with features and target (`Listening_Time_minutes`).
 - **test.csv**: Test dataset without target labels.
 - **sample_submission.csv**: Format for final predictions.
+  
+https://www.kaggle.com/competitions/playground-series-s5e4/data
 
 The dataset is synthetically generated based on a deep learning model trained on real-world podcast listening behavior.
 
