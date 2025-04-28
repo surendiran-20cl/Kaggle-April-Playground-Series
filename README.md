@@ -40,7 +40,7 @@ Random Forest achieved the best RMSE and was used for the final submission.
 ##  How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/podcast-listening-time-prediction.git
+   git clone https://github.com/surendiran-20cl/Kaggle-April-Playground-Series.git
    ```
 2. Install required packages:
    ```bash
